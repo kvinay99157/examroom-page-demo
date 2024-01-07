@@ -1,6 +1,7 @@
 # Examroom
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
+[Live Link](https://kvinay99157.github.io/examroom-page-demo/dist/examroom/browser/)
 
 ## Development server
 
